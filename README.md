@@ -10,7 +10,7 @@ CODICE SORGENTE BETA:
 
 #include <iostream>
 
-//Creato da Nicholas Impieri
+
 
 using namespace std;
 
@@ -18,7 +18,7 @@ using namespace std;
 
 int main()
 
-//Per informazioni impieri.nicholas@gmail.com
+
 
 {
 	
